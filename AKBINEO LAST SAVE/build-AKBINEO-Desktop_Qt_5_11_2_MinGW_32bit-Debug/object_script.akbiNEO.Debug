@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\lighting.o
+./debug\jalousie.o
+./debug\heating.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_lighting.o
+./debug\moc_jalousie.o
+./debug\moc_heating.o
+);

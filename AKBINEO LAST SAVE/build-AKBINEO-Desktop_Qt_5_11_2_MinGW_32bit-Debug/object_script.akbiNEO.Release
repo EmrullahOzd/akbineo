@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\lighting.o
+./release\jalousie.o
+./release\heating.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_lighting.o
+./release\moc_jalousie.o
+./release\moc_heating.o
+);

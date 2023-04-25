@@ -1,0 +1,13 @@
+#pushButton_12 {
+background-color: transparent;
+border-image: url(:/Desktop/light off.png);
+background: none;
+border: none;
+background-repeat: none;
+}
+#pushButton_12:checked 
+{
+ border-image: url(:/Desktop/light on.png);
+self.onOffLoadDial.setCheckable(True)
+self.onOffLoadDial.setChecked(False)
+}
